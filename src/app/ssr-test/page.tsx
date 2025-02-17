@@ -1,4 +1,3 @@
-// app/page.tsx
 import React from "react";
 import Image from "next/image";
 import { SquareArrowOutUpRight } from "lucide-react";
